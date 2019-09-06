@@ -1,0 +1,37 @@
+INSERT INTO students (studentid, studentlastname, studentfirstname)
+VALUES ('1', 'Pereira', 'Sergio');
+
+INSERT INTO students (studentid, studentlastname, studentfirstname)
+VALUES ('2', 'Pereira', 'Saulo');
+
+INSERT INTO students (studentid, studentlastname, studentfirstname)
+VALUES ('3', 'Silva', 'Adlany');
+
+INSERT INTO students (studentid, studentlastname, studentfirstname)
+VALUES ('4', 'Silva', 'Ana Paula');
+
+INSERT INTO students (studentid, studentlastname, studentfirstname)
+VALUES ('5', 'Costa', 'Henriqueta');
+
+INSERT INTO students (studentid, studentlastname, studentfirstname)
+VALUES ('6', 'Pereira', 'Saulo');
+
+INSERT INTO students (studentid, studentlastname, studentfirstname)
+VALUES ('7', 'Silva', 'Vandilson');
+
+INSERT INTO students (studentid, studentlastname, studentfirstname)
+VALUES ('8', 'Nunes', 'Whinderson');
+
+INSERT INTO students (studentid, studentlastname, studentfirstname)
+VALUES ('9', 'Lopes', 'Shaleny');
+
+INSERT INTO students (studentid, studentlastname, studentfirstname)
+VALUES ('10', 'Lopes', 'Celio');
+
+INSERT INTO students (studentid, studentlastname, studentfirstname)
+VALUES ('11', 'Pereira', 'Leandro');
+
+INSERT INTO students (studentid, studentlastname, studentfirstname)
+VALUES ('12', 'Silva', 'Imalda');
+
+select*from students;
